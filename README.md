@@ -133,7 +133,7 @@ const Euarno = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Euarno@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Euarno@outlook.com)
+[![Email](https://img.shields.io/badge/Email-Euarno@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Euarno@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Euarno-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Euarno)
 
 </div>
@@ -148,7 +148,7 @@ const Euarno = {
 
 ### 👀 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/Euarno/count.svg)
+![](https://komarev.com/ghpvc/?username=Euarno&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ---
 
